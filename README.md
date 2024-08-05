@@ -14,7 +14,7 @@ This boilerplate project leverages Next.js, Material-UI, and react-i18next to pr
 First, ensure you have Node.js and npm installed. Then, clone the repository and install the necessary packages:
 
 ```bash
-git clone [your-repo-url]
-cd [your-repo-directory]
+git clone https://github.com/ZainElabdeen/nextjs-starter.git
+cd nextjs-starter
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/material-nextjs @emotion/cache stylis stylis-plugin-rtl react-i18next i18next i18next-resources-to-backend next-i18n-router
 npm i -D @types/js-cookie
