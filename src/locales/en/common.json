@@ -1,0 +1,22 @@
+{
+  "or": "OR",
+  "next": "Next",
+  "confirm": "Confirm",
+  "finish": "Finish",
+  "cancel": "Cancel",
+  "save": "Save",
+  "edit": "Edit",
+  "remove": "Remove",
+  "back": "Back",
+  "add": "Add",
+  "submit": "Submit",
+  "moveUp": "Move Up",
+  "moveDown": "Move Down",
+  "browse": "Browse",
+  "ok": "Ok",
+  "upload": "Upload",
+  "home": "Home",
+  "typeHere": "type here",
+  "logout": "logout",
+  "close": "Close"
+}
